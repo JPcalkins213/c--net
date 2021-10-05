@@ -15,3 +15,11 @@ c# data types
 - double (an oddly more specific float?)
 - char (words)
 - bool (i should really already know what a bool is)
+
+//ARRAYS
+arrays in c# must be specified by their exact length and cannot be changed
+
+/declaring an array with the length of 5
+int[] numArray = new int[5];
+
+int[] numArray2 = {1,2,3,4,5};
