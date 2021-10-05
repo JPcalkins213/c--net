@@ -2,3 +2,4 @@ when starting a c# project we can have the cli build a new directory for our pro
 
 to run your project type in the console "sudo dotnet run"
 
+if you need to inject a variable into a string you need to $"{variable} place other text string here"
