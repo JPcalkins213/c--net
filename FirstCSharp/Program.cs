@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace firstcsharp
+namespace FirstCSharp
 {
     class Program
     {
@@ -10,4 +10,3 @@ namespace firstcsharp
         }
     }
 }
-

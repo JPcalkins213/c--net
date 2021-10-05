@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace firstcsharp
+namespace hello_net_core
 {
     class Program
     {
@@ -10,4 +10,3 @@ namespace firstcsharp
         }
     }
 }
-

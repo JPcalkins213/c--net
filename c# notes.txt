@@ -1,0 +1,4 @@
+when starting a c# project we can have the cli build a new directory for our project by typing in the console "sudo dotnet new console -o ProjectName"
+
+to run your project type in the console "sudo dotnet run"
+
