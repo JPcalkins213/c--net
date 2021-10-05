@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kittentoad/Documents/c#-net/FirstCSharp/FirstCSharp.csproj": {}
+    "/home/kittentoad/Documents/c#-net/SecondCSharp/SecondCSharp.csproj": {}
   },
   "projects": {
-    "/home/kittentoad/Documents/c#-net/FirstCSharp/FirstCSharp.csproj": {
+    "/home/kittentoad/Documents/c#-net/SecondCSharp/SecondCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kittentoad/Documents/c#-net/FirstCSharp/FirstCSharp.csproj",
-        "projectName": "FirstCSharp",
-        "projectPath": "/home/kittentoad/Documents/c#-net/FirstCSharp/FirstCSharp.csproj",
+        "projectUniqueName": "/home/kittentoad/Documents/c#-net/SecondCSharp/SecondCSharp.csproj",
+        "projectName": "SecondCSharp",
+        "projectPath": "/home/kittentoad/Documents/c#-net/SecondCSharp/SecondCSharp.csproj",
         "packagesPath": "/home/kittentoad/.nuget/packages/",
-        "outputPath": "/home/kittentoad/Documents/c#-net/FirstCSharp/obj/",
+        "outputPath": "/home/kittentoad/Documents/c#-net/SecondCSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kittentoad/.nuget/NuGet/NuGet.Config"

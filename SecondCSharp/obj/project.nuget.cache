@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ivr1eTs8HV9WkCASkJGvLcQD5V5zhggyfv7AyM74BBB6zv1tn/IXAFnaJ8Z7xU/HX/4i3widDGUCkaPyiPHnZg==",
+  "dgSpecHash": "BhNlj6LhoriPunn1i0jO/AONUZlAIAghXKA5UVaByJU6KHCgHKQnNQJASWctXDiesbv/WsNMzc+dO1IMMPaxzQ==",
   "success": true,
-  "projectFilePath": "/home/kittentoad/Documents/c#-net/FirstCSharp/FirstCSharp.csproj",
+  "projectFilePath": "/home/kittentoad/Documents/c#-net/SecondCSharp/SecondCSharp.csproj",
   "expectedPackageFiles": [
     "/home/kittentoad/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],

@@ -1,0 +1,16 @@
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/SecondCSharp
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/SecondCSharp.deps.json
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/SecondCSharp.runtimeconfig.json
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/SecondCSharp.runtimeconfig.dev.json
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/SecondCSharp.dll
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/ref/SecondCSharp.dll
+/home/kittentoad/Documents/c#-net/SecondCSharp/bin/Debug/net5.0/SecondCSharp.pdb
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.csprojAssemblyReference.cache
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.AssemblyInfoInputs.cache
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.AssemblyInfo.cs
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.csproj.CoreCompileInputs.cache
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.dll
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/ref/SecondCSharp.dll
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.pdb
+/home/kittentoad/Documents/c#-net/SecondCSharp/obj/Debug/net5.0/SecondCSharp.genruntimeconfig.cache

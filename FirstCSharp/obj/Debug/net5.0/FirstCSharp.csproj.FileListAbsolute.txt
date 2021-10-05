@@ -1,0 +1,16 @@
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/FirstCSharp
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/FirstCSharp.deps.json
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/FirstCSharp.runtimeconfig.json
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/FirstCSharp.runtimeconfig.dev.json
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/FirstCSharp.dll
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/ref/FirstCSharp.dll
+/home/kittentoad/Documents/c#-net/FirstCSharp/bin/Debug/net5.0/FirstCSharp.pdb
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.csprojAssemblyReference.cache
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.AssemblyInfoInputs.cache
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.AssemblyInfo.cs
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.dll
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/ref/FirstCSharp.dll
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.pdb
+/home/kittentoad/Documents/c#-net/FirstCSharp/obj/Debug/net5.0/FirstCSharp.genruntimeconfig.cache

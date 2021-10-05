@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FirstCSharp
+namespace SecondCSharp
 {
     class Program
     {
