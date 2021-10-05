@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gDa8w0GdHn//7ARzs4GkrCeT+1umRSWvU6Auvc5VRqOPmWrpWtYQ/woTgo6tvirc7MlUKMLQkjet7hN1aqyMqQ==",
+  "success": true,
+  "projectFilePath": "/home/kittentoad/Documents/c#-net/fundemental1/fundemental1.csproj",
+  "expectedPackageFiles": [
+    "/home/kittentoad/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

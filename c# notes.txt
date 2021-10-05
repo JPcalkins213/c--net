@@ -3,3 +3,15 @@ when starting a c# project we can have the cli build a new directory for our pro
 to run your project type in the console "sudo dotnet run"
 
 if you need to inject a variable into a string you need to $"{variable} place other text string here"
+
+in c# it is mandatory to specify what type of variable the variable will be i.e.(string, int, double, bool)
+
+c# data types 
+
+- int (a normal integer value range)
+- long int (much bigger integer value range, one i may never need)
+- short int
+- float (decimal number)
+- double (an oddly more specific float?)
+- char (words)
+- bool (i should really already know what a bool is)

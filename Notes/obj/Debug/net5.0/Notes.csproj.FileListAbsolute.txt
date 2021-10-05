@@ -1,0 +1,16 @@
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.csprojAssemblyReference.cache
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.GeneratedMSBuildEditorConfig.editorconfig
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.AssemblyInfoInputs.cache
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.AssemblyInfo.cs
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.csproj.CoreCompileInputs.cache
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/Notes
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/Notes.deps.json
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/Notes.runtimeconfig.json
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/Notes.runtimeconfig.dev.json
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/Notes.dll
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/ref/Notes.dll
+/home/kittentoad/Documents/c#-net/Notes/bin/Debug/net5.0/Notes.pdb
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.dll
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/ref/Notes.dll
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.pdb
+/home/kittentoad/Documents/c#-net/Notes/obj/Debug/net5.0/Notes.genruntimeconfig.cache

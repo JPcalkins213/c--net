@@ -1,0 +1,16 @@
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/fundemental1
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/fundemental1.deps.json
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/fundemental1.runtimeconfig.json
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/fundemental1.runtimeconfig.dev.json
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/fundemental1.dll
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/ref/fundemental1.dll
+/home/kittentoad/Documents/c#-net/fundemental1/bin/Debug/net5.0/fundemental1.pdb
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.csprojAssemblyReference.cache
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.AssemblyInfoInputs.cache
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.AssemblyInfo.cs
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.csproj.CoreCompileInputs.cache
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.dll
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/ref/fundemental1.dll
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.pdb
+/home/kittentoad/Documents/c#-net/fundemental1/obj/Debug/net5.0/fundemental1.genruntimeconfig.cache

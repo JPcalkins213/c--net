@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ima6Ygl3IlGkpUaCGakmnBpQZk/fDuf6Io3OPl4R5x8Epyb9yWnoZSfiLZ3FavMDRO6UzhelPgIWvHspjImh/g==",
+  "success": true,
+  "projectFilePath": "/home/kittentoad/Documents/c#-net/Notes/Notes.csproj",
+  "expectedPackageFiles": [
+    "/home/kittentoad/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
