@@ -21,21 +21,21 @@
 //     }
 // }
 
-// for (int i = 1; i < 100; i++)
-// {
-//     if (i%5 == 0 && i%3 == 0)
-//     {
-//         Console.WriteLine("FizzBuzz");
-//     }
-//     else if(i%5==0)
-//     {
-//         Console.WriteLine("Buzz");
-//     }
-//     else if(i%3==0)
-//     {
-//         Console.WriteLine("Fizz");
-//     }
-// }
+for (int i = 1; i < 100; i++)
+{
+    if (i%5 == 0 && i%3 == 0)
+    {
+        Console.WriteLine("FizzBuzz");
+    }
+    else if(i%5==0)
+    {
+        Console.WriteLine("Buzz");
+    }
+    else if(i%3==0)
+    {
+        Console.WriteLine("Fizz");
+    }
+}
 
 //turning the previous for loop into a while loop
 int num = 1;
